@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="FileName1.cpp" />
     <ClCompile Include="new1.3.cpp" />
   </ItemGroup>
